@@ -10,6 +10,10 @@ public class ClassroomDAO {
 
     // Save all classrooms to CSV
     public boolean saveClassrooms(List<Classroom> classrooms) {
+        File directory = new File("data");
+        if (!directory.exists()) {
+            directory.mkdirs(); // Create all necessary parent directories
+        }
         try (PrintWriter writer = new PrintWriter(new File(FILE_PATH))) {
             // Write header
             writer.println("RoomNumber,Capacity,HasProjector,HasAC,AdditionalFacilities");
