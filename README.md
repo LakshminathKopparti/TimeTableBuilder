@@ -78,6 +78,4 @@ This project was developed as part of the OOPS course at BITS Pilani to demonstr
 
 This project is for educational purposes.
 
----
 
-*Developed by LakshminathKopparti as part of the OOPS course at BITS Pilani.*
