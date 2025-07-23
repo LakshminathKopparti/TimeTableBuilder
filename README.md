@@ -80,4 +80,4 @@ This project is for educational purposes.
 
 ---
 
-*Developed by Lokesh Sathish (f20220732@hyderabad.bits-pilani.ac.in) as part of the OOPS course at BITS Pilani.*
+*Developed by LakshminathKopparti as part of the OOPS course at BITS Pilani.*
